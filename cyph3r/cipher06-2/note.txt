@@ -1,0 +1,19 @@
+more testing 
+i noticed something how about i also zip files also it will reduced the time for transfer,
+going to testing it soon 
+next i will be working on unzipping
+oops seem like i will need no remodifiy the zipp and shi
+server and client modification for ip address
+alright check the sending and recieving then you check the notification and progressbar then also check the server file config
+
+pyinstaller -F -w -n cyph3r --add-data 'bit.ico;.' --splash cipp.jpg -i cipp.jpg cipher.py
+pyinstaller -F -w -n Шепот --add-data 'client\assets;assets' --splash client\assets\flash_screen.jpg --icon=main_ico.jpg client\main_app.py
+
+
+
+Traceback (most recent call last):
+  File "main_app.py", line 670, in <module>
+  File "main_app.py", line 55, in __init__
+  File "customtkinter\windows\ctk_tk.py", line 232, in iconbitmap
+  File "tkinter\__init__.py", line 2136, in wm_iconbitmap
+_tkinter.TclError: bitmap "C:\Users\USER\AppData\Local\Temp\_MEI130722\assets\bitmap.ico" not defined
