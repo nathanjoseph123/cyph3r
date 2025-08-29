@@ -25,7 +25,9 @@ server(cyph3r): Download the latest release https://nullroot1.itch.io/cyph3r
 How to use the server alone for development 
 ---
 -immediately after connecting send allass.?? Nickname  i.e if i want my nickname to be john i will send allass.?? john
+
 -incase you are use the server alone to build your stuff the server sends out a ping (pqpwpopopo) to all it's clients to know who's alive so ensure to filter it out
+
 ​- message  sent to the server should be in this format Nickname/alias : message i.e john : hello world
 
 ---
