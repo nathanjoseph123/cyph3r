@@ -19,8 +19,17 @@ It allows you to ping connected clients, forward messages and files securely, an
 ## Installation
 
 server(cyph3r): Download the latest release https://nullroot1.itch.io/cyph3r
+
+*IMPORTANT*📌
+
+Note: incase you are using the server only for
+development, keep in mind that the server ping word is pqpwpopopo('it uses that word to ping it's client
+to know who is alive') so ensure to filter it out
+
 ---
+
 client(whispher/Шепот): Download the latest release https://nullroot1.itch.io/whisper
+
 ---
 
 *Windows:*
