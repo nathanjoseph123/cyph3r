@@ -21,10 +21,12 @@ It allows you to ping connected clients, forward messages and files securely, an
 server(cyph3r): Download the latest release https://nullroot1.itch.io/cyph3r
 
 *IMPORTANT*📌
-
-Note: incase you are using the server only for
-development, keep in mind that the server ping word is pqpwpopopo('it uses that word to ping it's client
-to know who is alive') so ensure to filter it out
+---
+How to use the server alone for development 
+---
+-immediately after connecting send allass.?? Nickname  i.e if i want my nickname to be john i will send allass.?? john
+-incase you are use the server alone to build your stuff the server sends out a ping (pqpwpopopo) to all it's clients to know who's alive so ensure to filter it out
+​- message  sent to the server should be in this format Nickname/alias : message i.e john : hello world
 
 ---
 
