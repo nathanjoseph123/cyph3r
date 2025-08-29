@@ -19,7 +19,9 @@ It allows you to ping connected clients, forward messages and files securely, an
 ## Installation
 
 server(cyph3r): Download the latest release https://nullroot1.itch.io/cyph3r
+---
 client(whispher/Шепот): Download the latest release https://nullroot1.itch.io/whisper
+---
 
 *Windows:*
 
