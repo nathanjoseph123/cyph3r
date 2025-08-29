@@ -1,5 +1,5 @@
-*IMPORTANT*
+*IMPORTANT*📌
 
 Note: incase you are using the server only for
-your development, keep in mind that the server ping word is pqwooo('it uses that word to ping it's client
-to know who is alive')
+development, keep in mind that the server ping word is pqpwpopopo('it uses that word to ping it's client
+to know who is alive') so ensure to filter it out
