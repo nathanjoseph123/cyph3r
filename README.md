@@ -18,7 +18,8 @@ It allows you to ping connected clients, forward messages and files securely, an
 
 ## Installation
 
-server(cyph3r): Download the latest release https://nullroot1.itch.io/cyph3r
+server(cyph3r): Download the latest release
+# https://nullroot1.itch.io/cyph3r
 
 *IMPORTANT*📌
 ---
@@ -32,7 +33,8 @@ How to use the server alone for development
 
 ---
 
-client(whispher/Шепот): Download the latest release https://nullroot1.itch.io/whisper
+client(whispher/Шепот): Download the latest release
+# https://nullroot1.itch.io/whisper
 
 ---
 
