@@ -22,11 +22,15 @@ Download the latest release for Windows from the [Releases page](https://github.
 
 *Windows:*
 
-1. Download MyCommunicationApp.exe from the release.
+1. Download whisper.exe or cyph3r.exe from the release.
 2. Double-click to run. No installation required.
 
 ---
+*linux:*
+1. Download whisper.exe or cyph3r.exe from the release.
+2. Use wine to run . No installation required.
 
+---
 ## Usage
 
 1. Launch the application.
