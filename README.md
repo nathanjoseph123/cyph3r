@@ -18,16 +18,17 @@ It allows you to ping connected clients, forward messages and files securely, an
 
 ## Installation
 
-Download the latest release for Windows from the [Releases page](https://github.com/nathanjoseph123/cyph3r/releases).
+server(cyph3r): Download the latest release https://nullroot1.itch.io/cyph3r
+client(whispher/Шепот): Download the latest release https://nullroot1.itch.io/whisper
 
 *Windows:*
 
-1. Download whisper.exe or cyph3r.exe from the release.
+1. Download whisper.exe or cyph3r.exe from the above.
 2. Double-click to run. No installation required.
 
 ---
 *linux:*
-1. Download whisper.exe or cyph3r.exe from the release.
+1. Download whisper.exe or cyph3r.exe from the link above.
 2. Use wine to run . No installation required.
 
 ---
